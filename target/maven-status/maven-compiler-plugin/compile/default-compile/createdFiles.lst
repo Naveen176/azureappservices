@@ -1,0 +1,9 @@
+com\nagarro\assignment07\user\LogOutServlet.class
+com\nagarro\assignment07\actions\EditRecordServlet.class
+com\nagarro\assignment07\user\User.class
+com\nagarro\assignment07\productmanagement\HibernateUtil.class
+com\nagarro\assignment07\user\LoginServlet.class
+com\nagarro\assignment07\productmanagement\ProductDetails.class
+com\nagarro\assignment07\actions\DeleteRecordServlet.class
+com\nagarro\assignment07\insertdata\InsertDataServlet.class
+com\nagarro\assignment07\user\ValidateUser.class

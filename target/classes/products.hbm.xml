@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping
+	package="com.nagarro.assignment07.productmanagement">
+
+	<class name="com.nagarro.assignment07.productmanagement.ProductDetails" table="productdetails">
+		<id name="id" type="int">
+			<column name="id" />
+			<generator class="assigned" />
+		</id>
+		<property name="title" column="title" type="string" />
+		<property name="quantity" column="quantity" type="int" />
+		<property name="size" column="size" type="int" />
+		<property name="image" column="image" type="string" />
+	</class>
+</hibernate-mapping>

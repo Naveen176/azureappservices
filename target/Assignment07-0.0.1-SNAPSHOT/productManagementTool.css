@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+div.form-container{
+    padding: 25px;
+    width:50%;
+}
+h2{
+	text-align:center;
+}
+p{
+	display:flex;
+	align-items:center;
+	width:100%;
+}
+h5{
+	float:right;
+}
+div.productDetails{
+	padding:25px;
+}

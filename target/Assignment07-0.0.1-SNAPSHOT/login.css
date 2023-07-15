@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+h2{
+    background-color: rgb(175, 227, 245);
+    color: rgb(97, 97, 171);
+    height:50px;
+    display:flex;
+    align-items:center;
+}
+button{
+	position:absolute;
+	padding:5px;
+}
+p{
+	background-color: rgb(175, 227, 245);
+    color: rgb(97, 97, 171);
+    height:50px;
+    display:flex;
+    align-items:center;
+	width:100%;
+}
+div.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
