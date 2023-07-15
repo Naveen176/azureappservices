@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'naveenap'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6A620E9F2204C2A805D9F0DED2AE857 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D127403C0D244581AC6505303372702C }}
           package: '*.war'
